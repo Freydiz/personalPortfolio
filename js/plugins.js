@@ -13,10 +13,10 @@ navbarLinks.addEventListener('click', () => {
 const typedTextSpan = document.querySelector('.typed-text');
 const cursorSpan = document.querySelector('.cursor');
 
-const textArray = ['Web Developer', 'UX/UI Designer', 'Project Manager'];
-const typingDelay = 200;
+const textArray = ['Front-end Developer', 'User-friendly', 'Mobile-first', 'Responsive design'];
+const typingDelay = 150;
 const erasingDelay = 100;
-const newTextDelay = 2000; // Delay between current and next text
+const newTextDelay = 1500; // Delay between current and next text
 let textArrayIndex = 0;
 let charIndex = 0;
 

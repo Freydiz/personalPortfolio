@@ -368,12 +368,13 @@ p {
 }
 
 .hero .hero_content .name_holder ul li {
-  margin: 30px 15px 0px 0px;
+  margin: 30px 30px 0px 0px;
 }
 
 .hero .hero_content .name_holder ul li a {
   text-decoration: none;
   color: #fff;
+  font-size: 1.5rem;
 }
 
 .hero .hero_content .name_holder ul li a:hover,
